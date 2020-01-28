@@ -1,0 +1,3 @@
+ip:hq-uccx.abc.inc
+username:administrator
+password:ciscopsdt

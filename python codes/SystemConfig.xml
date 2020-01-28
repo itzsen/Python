@@ -1,0 +1,1 @@
+<SystemConfig><uri>/finesse/api/SystemConfig</uri><cti><host>1.1.1.1</host><port>42027</port><backupHost>2.2.2.2</backupHost><backupPort>43027</backupPort><peripheralId>43027</peripheralId><secure>false</secure></cti></SystemConfig>

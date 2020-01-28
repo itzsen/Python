@@ -1,0 +1,1 @@
+<EnterpriseDatabaseConfig><uri>/finesse/api/EnterpriseDatabaseConfig</uri><host>1.1.1.1</host><backupHost>1.1.1.2</backupHost><port>1433</port><databaseName>customer_awdb</databaseName><domain>example.com</domain><username>Admin</username><password>password</password></EnterpriseDatabaseConfig>
